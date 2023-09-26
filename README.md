@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login-Signup-UI-React-Native-Reanimated
 
 ![Image](https://cdn.dribbble.com/userupload/10008721/file/original-d20bebcd43f5bd714803301e2ddb709a.png?compress=1&resize=1024x768)
@@ -46,3 +47,6 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 </p>
 
 <a href="https://www.buymeacoffee.com/syednoman">☕ Buy me a coffee</a>
+=======
+# React_Native_Registration
+>>>>>>> 677c5522217353918fee45599f99acd4006760d2
